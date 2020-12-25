@@ -13,11 +13,11 @@ The solver can be run by using its original source code or by using a .exe file.
 ### Run Using Python
  1. Clone/fork this repository or download the .zip file (by clicking on the green "Code" button and clicking "Download ZIP").
  2. Make sure that you have a Python version of 3.6.x or later. You will also need the pip package installer.
- 3. Use pip to install the following packages: opencv-python and kociemba. You can do this by running the following command: `pip install opencv-python kociemba`. You may need to download (Visual Studio C++ Build Tools)[https://visualstudio.microsoft.com/visual-cpp-build-tools/] for the kociemba package if you get an error while installing it.
+ 3. Use pip to install the following packages: opencv-python and kociemba. You can do this by running the following command: `pip install opencv-python kociemba`. You may need to download [Visual Studio C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) for the kociemba package if you get an error while installing it.
  4. The source code is now ready for you to modify and run. The main file to run is `main.py`. Enjoy!
  
 ### Run Using Executable
- 1. Download the .zip file from the (releases section of this GitHub page)[https://github.com/anshgandhi4/Rubiks-Cube-Solver/releases].
+ 1. Download the .zip file from the [releases section of this GitHub page](https://github.com/anshgandhi4/Rubiks-Cube-Solver/releases).
  2. Unzip the file.
  3. If you are using the .exe file, unzip the .zip file and click on main.exe to run the solver. Enjoy!
  
@@ -36,6 +36,6 @@ The solver can be run by using its original source code or by using a .exe file.
  12. Rotate the cube so that the blue face is facing the camera and the white face is facing upwards.
  13. Repeat Step 3.
  14. The camera screen and the slider should close. You will be left with a message on the command prompt window.
- 15. The solve solution will be printed in (standard cubing notation)[https://www.youtube.com/embed/24eHm4ri8WM?start=0&end=51].
+ 15. The solve solution will be printed in [standard cubing notation](https://www.youtube.com/embed/24eHm4ri8WM?start=0&end=51).
  16. Follow the solution with white on the top and green in the front.
  17. If done correctly, your cube should be solved!
