@@ -18,8 +18,7 @@ The solver can be run by using its original source code or by using a .exe file.
  
 ### Run Using Executable
  1. Download the .zip file from the [releases section of this GitHub page](https://github.com/anshgandhi4/Rubiks-Cube-Solver/releases).
- 2. Unzip the file.
- 3. If you are using the .exe file, unzip the .zip file and click on main.exe to run the solver. Enjoy!
+ 2. Unzip the file and click on `main.exe` to run the solver. Enjoy!
  
 ## How to Use This Code:
  1. Once you have the script running, the first step is to scan the cube.
